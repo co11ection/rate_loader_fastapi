@@ -1,0 +1,22 @@
+{
+    "2020-06-01":[
+        {
+            "cargo_type": "Glass",
+            "rate": "0,004"
+        },
+        {
+            "cargo_type": "Other",
+            "rate": "0,001"
+        }
+    ],
+    "2021-07-01":[
+        {
+            "cargo_type": "Glass",
+            "rate": "0,035"
+        },
+        {
+            "cargo_type": "Other",
+            "rate": "0,015"
+        }
+    ]
+}
